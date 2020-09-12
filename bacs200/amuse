@@ -1,0 +1,37 @@
+  <!DOCTYPE html>
+    <html lang="en">
+        <head>
+    
+            <meta charset="UTF-8">
+            <title>Amuse Me</title>
+    
+        </head>
+        <body>
+    
+            <h1>Amuse Me</h1>
+            <p>by Ethan Leake</p>
+            <p>This page contains things that i find interesting and amusing.</p>
+            <h2>USA Wrestling</h2>
+            <p>
+              "This site has all the latest news about wrestling events going on around the country and even around the world too."
+            </p>
+            <p>
+              <a href="https://www.teamusa.org/usa-wrestling">USA Wrestling</a>
+            </p>
+            <h2>Hulu</h2>
+            <p>
+              "I enjoy watching the shows that are on this site, my favorite is Rick and Morty."
+            </p>
+            <p>
+              <a href="https://www.hulu.com/hub/home">Hulu</a>
+            </p>
+            <h2>Flowrestling</h2>
+            <p>
+              "This site has so many videos on wrestling techniques that you can watch and many more things."
+            </p>
+            <p>
+              <a href="https://www.flowrestling.org/">Flowrestling</a>
+            </p>
+            
+        </body>
+    </html>
